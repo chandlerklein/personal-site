@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>Chandler Klein - Software Engineer</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
-        <link rel="icon" type="image/x-icon" href="/favicon.png"/>
+        <link rel="icon" type="image/x-icon" href="/projects/personal-site-next/public/favicon.png"/>
       </Head>
       <Component {...pageProps} />
     </div>
