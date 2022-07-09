@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(247, 248, 252);
+}
+
+*:not(FontAwesomeIcon) {
+    font-family: Josefin Sans, sans-serif !important;
+}
