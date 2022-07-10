@@ -14,6 +14,8 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>Chandler Klein - Software Engineer</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
+        <meta name="description"
+              content="Chandler Klein's portfolio site for being a professional software engineer and messing around."/>
         <link rel="icon" type="image/x-icon" href="/favicon.png"/>
       </Head>
       <Component {...pageProps} />
