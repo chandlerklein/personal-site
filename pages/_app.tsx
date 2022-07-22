@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta charSet='UTF-8'/>
         <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
         <meta name="description"
-              content="Chandler Klein's portfolio site for being a professional software engineer and messing around."/>
+              content="Chandler Klein • Software Engineer at FedEx • Memphis, TN"/>
         <link rel="icon" type="image/x-icon" href="/favicon.png"/>
       </Head>
 
